@@ -1,0 +1,14 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Training Outputs & Heavy Weights
+outputs/
+*.safetensors
+*.gguf
+*.bin
